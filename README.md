@@ -1,115 +1,64 @@
-I am a .NET developer with previous experience working on web-based applications using C#, ASP.NET, ASP.NET MVC, and SQL Server. I also have hands-on experience developing and maintaining business websites.
+# Hi, I'm Madhuri 👋
 
-I am currently strengthening my skills in ASP.NET Core, Web API, C#, and SQL Server to pursue opportunities as an ASP.NET / .NET Developer.
+### ASP.NET Developer | .NET Developer | Web Application Developer
 
-🛠️ Technical Skills
+I have previous experience in .NET development and hands-on experience building and maintaining business websites. I am currently focusing on ASP.NET and .NET development opportunities.
 
-Programming Languages
+## 🛠️ Technical Skills
 
-C#
+- **Programming Languages:** C#, JavaScript
+- **Web Technologies:** HTML5, CSS3, ASP.NET, ASP.NET MVC
+- **Backend Development:** ASP.NET Web API, REST API, JSON
+- **Database:** Microsoft SQL Server, SQL Queries
+- **Tools:** Git, GitHub, Web Deployment
 
-JavaScript
+## 💼 Professional Experience
 
-HTML5
-
-CSS3
-
-.NET Technologies
-
-ASP.NET
-
-ASP.NET MVC
-
-ASP.NET Web API
-
-REST API
-
-JSON
-
-Database
-
-Microsoft SQL Server
-
-SQL Queries
-
-CRUD Operations
-
-Tools & Technologies
-
-Git
-
-GitHub
-
-Web Deployment
-
-Responsive Web Design
-
-💼 Professional Experience
-
-.NET Developer
-
-Tekwissen Software Pvt. Ltd.
+### .NET Developer — Tekwissen Software Pvt Ltd
 
 Worked on web-based applications using C#, ASP.NET, ASP.NET MVC, HTML, JavaScript, and SQL Server.
 
-Key areas of work included:
+- Developed employee login and registration modules.
+- Worked on employee management functionality.
+- Worked on leave approval modules.
+- Worked on web application functionality.
+- Worked with API and JSON-related functionality.
+- Used SQL Server for database operations.
 
-Employee login and registration modules
+## 🌐 Web Development Projects
 
-Employee management functionality
-
-Leave approval modules
-
-Web application functionality and maintenance
-
-API and JSON-related functionality
-
-Database operations using SQL Server
-
-🌐 Web Development Projects
-
-1. GVR Global
+### GVR Global
 
 Business website developed as an independent web development project.
 
-Live Website: https://www.gvr-global.com/
+- **Live Website:** https://www.gvr-global.com/
+- **Technologies:** HTML, CSS, JavaScript, Responsive Web Design
 
-Technologies: HTML5, CSS3, JavaScript, Responsive Web Design
-
-2. Jabulani Supplies
+### Jabulani Supplies
 
 Business website developed as an independent web development project.
 
-Live Website: https://jabulani-supplies.com/
+- **Live Website:** https://jabulani-supplies.com/
+- **Technologies:** HTML, CSS, JavaScript, Responsive Web Design
 
-Technologies: HTML5, CSS3, JavaScript, Responsive Web Design
+## 📚 Currently Learning
 
-🎯 Current Learning Goals
+- ASP.NET Core
+- Advanced C# and Object-Oriented Programming
+- ASP.NET Core Web API
+- Entity Framework Core
+- SQL Server
+- Dependency Injection
+- Authentication and Authorization
 
-ASP.NET Core and MVC
+## 🎯 Career Objective
 
-C# programming and object-oriented programming
+Looking for opportunities as an ASP.NET Developer, .NET Developer, or Web Application Developer where I can apply my technical knowledge, improve my development skills, and contribute to building reliable web applications.
 
-ASP.NET Core Web API development
+## 📫 Connect With Me
 
-Entity Framework Core
-
-SQL Server and database design
-
-Dependency Injection
-
-Authentication and authorization
-
-Building and deploying end-to-end web applications
-
-📫 Connect With Me
-
-GitHub: https://github.com/madhurivenneti48-cmd
-
-GVR Global: https://www.gvr-global.com/
-
-Jabulani Supplies: https://jabulani-supplies.com/
-
-I'm interested in opportunities involving ASP.NET, C#, SQL Server, Web API, and web application development.
+- **GitHub:** https://github.com/madhurivenneti48-cmd
+- **GVR Global:** https://www.gvr-global.com/
+- **Jabulani Supplies:** https://jabulani-supplies.com/
 
 Thanks for visiting my profile! 😊

@@ -1,98 +1,115 @@
-# Hi, I'm Madhuri 👋
+I am a .NET developer with previous experience working on web-based applications using C#, ASP.NET, ASP.NET MVC, and SQL Server. I also have hands-on experience developing and maintaining business websites.
 
-### Technical Support | Application Support | Web Development
+I am currently strengthening my skills in ASP.NET Core, Web API, C#, and SQL Server to pursue opportunities as an ASP.NET / .NET Developer.
 
-I am a technical professional with previous experience in .NET development and hands-on experience building and maintaining business websites.
+🛠️ Technical Skills
 
-Currently focusing on opportunities in **Technical Support, Application Support, IT Support and Service Desk** roles.
+Programming Languages
 
-## 🛠️ Technical Skills
+C#
 
-**Support & Troubleshooting**
+JavaScript
 
-* Technical Support
-* Application Troubleshooting
-* Issue Resolution
-* Web Application Troubleshooting
-* API Troubleshooting
-* User Support
-* Basic Root Cause Analysis
+HTML5
 
-**Web Technologies**
+CSS3
 
-* HTML5
-* CSS3
-* JavaScript
-* ASP.NET
-* ASP.NET MVC
-* Web API
-* C#
-* JSON
-* REST API
+.NET Technologies
 
-**Database & Tools**
+ASP.NET
 
-* SQL Server
-* Git
-* GitHub
-* Web Deployment
+ASP.NET MVC
 
-## 💼 Experience
+ASP.NET Web API
 
-### .NET Developer
+REST API
 
-**Tekwissen Software Pvt Ltd**
+JSON
 
-Worked on web-based applications using C#, ASP.NET, ASP.NET MVC, HTML, JavaScript and SQL Server.
+Database
 
-Worked on modules including:
+Microsoft SQL Server
 
-* Employee login and registration
-* Employee management
-* Leave approval
-* Web application functionality
-* API and JSON-related functionality
+SQL Queries
 
-## 🌐 Web Development Projects
+CRUD Operations
 
-### GVR Global
+Tools & Technologies
+
+Git
+
+GitHub
+
+Web Deployment
+
+Responsive Web Design
+
+💼 Professional Experience
+
+.NET Developer
+
+Tekwissen Software Pvt. Ltd.
+
+Worked on web-based applications using C#, ASP.NET, ASP.NET MVC, HTML, JavaScript, and SQL Server.
+
+Key areas of work included:
+
+Employee login and registration modules
+
+Employee management functionality
+
+Leave approval modules
+
+Web application functionality and maintenance
+
+API and JSON-related functionality
+
+Database operations using SQL Server
+
+🌐 Web Development Projects
+
+1. GVR Global
 
 Business website developed as an independent web development project.
 
-**Live Website:**
-https://www.gvr-global.com/
+Live Website: https://www.gvr-global.com/
 
-**Technologies:** HTML, CSS, JavaScript, Responsive Web Design
+Technologies: HTML5, CSS3, JavaScript, Responsive Web Design
 
-### Jabulani Supplies
+2. Jabulani Supplies
 
 Business website developed as an independent web development project.
 
-**Live Website:**
-https://jabulani-supplies.com/
+Live Website: https://jabulani-supplies.com/
 
-**Technologies:** HTML, CSS, JavaScript, Responsive Web Design
+Technologies: HTML5, CSS3, JavaScript, Responsive Web Design
 
-## 🎯 Current Career Focus
+🎯 Current Learning Goals
 
-I am currently looking for opportunities in:
+ASP.NET Core and MVC
 
-* Technical Support
-* Application Support
-* IT Support
-* Service Desk
-* L1 Support
-* Technical Customer Support
-* Web/Application Support
+C# programming and object-oriented programming
 
-I enjoy troubleshooting technical issues, understanding user problems, identifying possible causes and working toward practical solutions.
+ASP.NET Core Web API development
 
-## 📫 Online Projects
+Entity Framework Core
 
-🌐 **GVR Global:** https://www.gvr-global.com/
+SQL Server and database design
 
-🌐 **Jabulani Supplies:** https://jabulani-supplies.com/
+Dependency Injection
 
-💻 **GitHub:** https://github.com/madhurivenneti48-cmd
-# vennetimadhuri36-cmd
-Technical Support | Application Support | Web Development
+Authentication and authorization
+
+Building and deploying end-to-end web applications
+
+📫 Connect With Me
+
+GitHub: https://github.com/madhurivenneti48-cmd
+
+GVR Global: https://www.gvr-global.com/
+
+Jabulani Supplies: https://jabulani-supplies.com/
+
+I'm interested in opportunities involving ASP.NET, C#, SQL Server, Web API, and web application development.
+
+Thanks for visiting my profile! 😊

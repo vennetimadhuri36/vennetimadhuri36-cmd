@@ -57,7 +57,7 @@ Looking for opportunities as an ASP.NET Developer, .NET Developer, or Web Applic
 
 ## 📫 Connect With Me
 
-- **GitHub:** https://github.com/madhurivenneti48-cmd
+- **GitHub:** https://github.com/vennetimadhuri36/vennetimadhuri36-cmd/blob/main/README.md
 - **GVR Global:** https://www.gvr-global.com/
 - **Jabulani Supplies:** https://jabulani-supplies.com/
 
